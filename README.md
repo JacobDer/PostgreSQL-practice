@@ -4,7 +4,7 @@ Jose Portilla's online PostgreSQL course.
 
 ## Fundamentals
 In this section we're practicing using basic SQL query language. This includes:
-SELECT, WHERE, ORDER BY, LIMIT, LIKE, ILIKE, comparson operators, and logical
+SELECT, WHERE, ORDER BY, LIMIT, LIKE, ILIKE, comparison operators, and logical
 operators.
 ### SELECT
 1. What are the first names, last names, and emails of the customers?
