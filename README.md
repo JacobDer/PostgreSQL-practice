@@ -27,3 +27,16 @@ operators.
 5. How many films are there that are rated R and have a replacement cost 
 between $5 and $15?
 6. How many films have the word Truman somewhere in the title?
+
+## Aggregation
+In this section we're practicing using aggregate functions. This means adding 
+GROUP BY and HAVING statements to our repertoire.
+### GROUP BY
+1. How many payments were handled by each staff member?
+2. What is the average replacement cost for each MPAA rating?
+3. What are the customer ids of the top 5 customers by total speding?
+### HAVING
+4. What are the customer ids of the customers who have made 40 or more 
+transactions?
+5. What are the customer ids of the customers who have spent more than $100 
+with the staff member who has staff id number 2?
