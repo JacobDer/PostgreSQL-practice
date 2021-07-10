@@ -40,3 +40,10 @@ GROUP BY and HAVING statements to our repertoire.
 transactions?
 5. What are the customer ids of the customers who have spent more than $100 
 with the staff member who has staff id number 2?
+
+## Assessment 1
+1. What are the customer ids of the customers who have spent more than $110 
+with the staff member who has staff id number 2?
+2. How many films' titles begin with J?
+3. Of the customers whose names begin with E and have an address id lower than
+500, which has the largest customer id?
