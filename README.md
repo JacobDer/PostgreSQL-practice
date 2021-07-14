@@ -5,9 +5,9 @@ with questions that are targeted at practicing a certain type of PostgreSQL
 command. Additionally, there will be assessments which include questions 
 covering all of the previous material comprehensively.
 
-Finally the solutions to the practice questions are found in the folders above
+Finally, the solutions to the practice questions are found in the folders above
 with corresponding titles, e.g. aggregation practice questions are found in the
-folder titles "aggregation".
+folder titled "aggregation".
 
 ## Fundamentals
 In this section we're practicing using basic SQL query language. This includes:
