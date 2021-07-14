@@ -1,6 +1,13 @@
 # PostgreSQL Practice Questions
 The database being used here is the Sakila database. The questions come from
-Jose Portilla's online PostgreSQL course.
+Jose Portilla's online PostgreSQL course. Each section will contain subsections
+with questions that are targeted at practicing a certain type of PostgreSQL 
+command. Additionally, there will be assessments which include questions 
+covering all of the previous material comprehensively.
+
+Finally the solutions to the practice questions are found in the folders above
+with corresponding titles, e.g. aggregation practice questions are found in the
+folder titles "aggregation".
 
 ## Fundamentals
 In this section we're practicing using basic SQL query language. This includes:
@@ -36,9 +43,9 @@ GROUP BY and HAVING statements to our repertoire.
 2. What is the average replacement cost for each MPAA rating?
 3. What are the customer ids of the top 5 customers by total speding?
 ### HAVING
-4. What are the customer ids of the customers who have made 40 or more 
+1. What are the customer ids of the customers who have made 40 or more 
 transactions?
-5. What are the customer ids of the customers who have spent more than $100 
+2. What are the customer ids of the customers who have spent more than $100 
 with the staff member who has staff id number 2?
 
 ## Assessment 1
