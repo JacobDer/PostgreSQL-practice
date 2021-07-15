@@ -54,3 +54,16 @@ with the staff member who has staff id number 2?
 2. How many films' titles begin with J?
 3. Of the customers whose names begin with E and have an address id lower than
 500, which has the largest customer id?
+
+## Joins
+In this section we're practicing joining tables together. New operations that 
+are fair game include INNER JOIN, FULL OUTER JOIN, LEFT OUTER JOIN, and 
+RIGHT OUTER JOIN.
+1. What are the emails for the customers who live in California?
+2. Produce a list of movies which have Nick Wahlberg in them.
+
+## Timestamps
+In this section we're using EXTRACT and TO_CHAR statements to deal with
+timestamp data.
+1. In which months did payments occur?
+2. How many payments occured on a Monday?
