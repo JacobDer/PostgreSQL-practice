@@ -1,5 +1,6 @@
 # PostgreSQL Practice Questions
-The database being used here is the Sakila database. The questions come from
+The databases used here are the dvdrental database and exercises database,
+both of which are available above. The questions come from
 Jose Portilla's online PostgreSQL course. Each section will contain subsections
 with questions that are targeted at practicing a certain type of PostgreSQL 
 command. Additionally, there will be assessments which include questions 
@@ -67,3 +68,26 @@ In this section we're using EXTRACT and TO_CHAR statements to deal with
 timestamp data.
 1. In which months did payments occur?
 2. How many payments occured on a Monday?
+
+##  Assessment 2
+In this assessment the exercises database is being used—not dvdrental. Note
+that all tables are found within the cd schema. Accordingly, querying the 
+database requires specifying the cd schema, e.g. 'cd.facilities'.
+1. Return all of the information from the facilities table.
+2. Return a list of facility names and their respective costs to members.
+3. Which facilities charge a nonzero fee to members?
+4. Which facilities charge a nonzero fee to members that is less than 1/50th 
+of the price of the monthly maintenance cost?
+5. Which facilities have the word 'tennis' in the name?
+6. Return the information for facilities with facility ids 1 and 5 WITHOUT
+using the OR keyword.
+7. Which customers joined after the start of September 2012?
+8. Return an ordered list of the first 10 surnames in the members table.
+9. What is the signup date of the last member?
+10. How many facilities charge guests $10 or more?
+11. What are the total number of slots booked, per facility, in September 2012?
+12. Return a list of facilities with more than 1000 slots booked, ordered by
+facility id.
+13. Return a list of start times for bookings of tennis courts on the date
+2012-09-21, ordered chronologically.
+14. Return a list of start times for bookings by the member David Farrell.
